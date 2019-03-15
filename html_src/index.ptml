@@ -1,0 +1,45 @@
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+            Python for Financial Professionals
+        </title>
+    </head>
+
+    <body>
+<!--include logo.txt -->
+<!--include menu.txt -->
+        <h1>
+            Python for Financial Professionals
+        </h1>
+
+        <h3>
+            Course Topics
+        </h3>
+
+        <ul class="nested">
+            <li>
+                Python fundamentals
+            </li>
+
+            <li>
+                From Excel to Python: pandas, numpy, and scipy.
+            </li>
+
+            <li>
+                Professional presentation of results: Seaborn, matplotlib, and
+                notebooks.
+            </li>
+
+            <li>
+                Software engineering: code re-use, testing, versioning, etc.
+            </li>
+
+            <li>
+                Writing a first project.
+            </li>
+
+        </ul>
+
+    </body>
+</html>

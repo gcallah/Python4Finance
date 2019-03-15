@@ -1,0 +1,22 @@
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+            About This Project
+        </title>
+    </head>
+
+    <body>
+<!--include logo.txt -->
+<!--include menu.txt -->
+        <h1>
+            About This Project
+        </h1>
+
+        <p>
+            A course to introduce financial professionals to the Python
+            programming language, and its use in the financial industry.
+        </p>
+
+    </body>
+</html>

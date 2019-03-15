@@ -1,0 +1,7 @@
+        <div style="text-align:center">
+            <p>
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Lower_Manhattan_by_night.jpg/500px-Lower_Manhattan_by_night.jpg"
+				width="20%">
+            </p>
+        </div>
+
